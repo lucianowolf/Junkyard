@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file>DejaVuSans.svg</file>
+<file>DejaVuSans-Bold.svg</file>
+<!-- ttf2svg fails to convert these two
+<file>DejaVuSans-BoldOblique.svg</file>
+<file>DejaVuSans-Oblique.svg</file>
+-->
+<file>DejaVuSerif.svg</file>
+<file>DejaVuSerif-Bold.svg</file>
+<file>DejaVuSerif-BoldItalic.svg</file>
+<file>DejaVuSerif-Italic.svg</file>
+<file>DejaVuSansMono-Bold.svg</file>
+<file>DejaVuSansMono-BoldOblique.svg</file>
+<file>DejaVuSansMono-Oblique.svg</file>
+<file>DejaVuSansMono.svg</file>
+</qresource>
+</RCC>
