@@ -1,11 +1,10 @@
 <!DOCTYPE RCC><RCC version="1.0">
 <qresource prefix="/">
+<file>fonts.css</file>
 <file>DejaVuSans.svg</file>
 <file>DejaVuSans-Bold.svg</file>
-<!-- ttf2svg fails to convert these two
 <file>DejaVuSans-BoldOblique.svg</file>
 <file>DejaVuSans-Oblique.svg</file>
--->
 <file>DejaVuSerif.svg</file>
 <file>DejaVuSerif-Bold.svg</file>
 <file>DejaVuSerif-BoldItalic.svg</file>
@@ -14,5 +13,8 @@
 <file>DejaVuSansMono-BoldOblique.svg</file>
 <file>DejaVuSansMono-Oblique.svg</file>
 <file>DejaVuSansMono.svg</file>
+<file>FormalScript.svg</file>
+<file>FormalScriptBold.svg</file>
+<file>Baldur.svg</file>
 </qresource>
 </RCC>
